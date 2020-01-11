@@ -1,0 +1,2 @@
+# WROOM02_EV
+Micropower IOT Evaluation Board: ESP8266, BME680, BME280, LM75, DS18B20
